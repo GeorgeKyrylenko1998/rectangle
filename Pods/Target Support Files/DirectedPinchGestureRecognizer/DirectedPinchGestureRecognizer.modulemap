@@ -1,0 +1,6 @@
+framework module DirectedPinchGestureRecognizer {
+  umbrella header "DirectedPinchGestureRecognizer-umbrella.h"
+
+  export *
+  module * { export * }
+}

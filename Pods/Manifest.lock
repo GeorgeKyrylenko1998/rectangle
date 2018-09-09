@@ -1,0 +1,12 @@
+PODS:
+  - DirectedPinchGestureRecognizer (1.0.0)
+
+DEPENDENCIES:
+  - DirectedPinchGestureRecognizer (~> 1.0)
+
+SPEC CHECKSUMS:
+  DirectedPinchGestureRecognizer: ca1466bc6e9cba73e9b1411fa291ade9f1595725
+
+PODFILE CHECKSUM: 78e94fcb37c57a9c3a9a2c08f9570ce548f6a60f
+
+COCOAPODS: 1.4.0
