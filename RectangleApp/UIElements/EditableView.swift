@@ -73,7 +73,7 @@ class EditableView: UIView{
     }
     
     @objc func singleTapped(sender: UITapGestureRecognizer) {
-        self.superview?.bringSubviewToFront(self)
+        self.superview?.bringSubview(toFront: self)
     }
     
     @objc func rotateEvent(sender: UIRotationGestureRecognizer)
